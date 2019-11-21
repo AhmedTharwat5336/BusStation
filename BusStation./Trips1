@@ -1,0 +1,19 @@
+trip number[1],Greece,Rome,plan,2,true,3,maher,6000,5/5/2019,3:50
+trip number[2],alex,matrouh,bus,2,false,50,maher,60,10/10/2019,10:10
+trip number[3],alex,dahab,bus,1,true,1,seif,60,10/10/2019,10:10
+trip number[4],alex,10/a7a/2019,plan,3,false,28,tarek,100,10/10/2019,10:10
+trip number[5],cairo,madrid,plan,2,false,189,tharwat,1000,10/10/2019,10:10
+trip number[6],asswan,alex,train,6,false,300,fares,500,7/12/2019,9:30
+trip number[7],cairo,marsa alam,bus,2,true,3,adham,300,7/7/2019,7:45
+trip number[8],alex,hurghada,bus,3,true,100,wahba,200,6/6/2019,6:30
+trip number[9],cairo,alex,car,1,true,5,tharwat,30,5/11/2019,10:30
+trip number[10],cairo,monte carlo,plan,0,false,199,tharwat,300,5/11/2020,20:35
+trip number[11],alex,sharm,car,1,true,1,maher,120,10/10/2019,10:10
+trip number[12],alex,cairo,bus,1,true,1,seif,200,10/10/2019,10:10
+trip number[13],cairo,oman,plan,3,false,28,nawar,2000,10/10/2019,10:10
+trip number[14],cairo,barcelona,plan,2,false,69,tharwat,1000,10/10/2019,10:10
+trip number[15],alex,cairo,train,1,false,48,fares,100,7/12/2019,9:30
+trip number[16],giza,alex,car,2,false,3,maher,300,7/7/2019,7:45
+trip number[17],alex,hurghada,car,3,true,2,wahba,700,6/6/2019,6:30
+trip number[18],alex,sahel,car,1,false,2,tharwat,80,5/11/2019,10:30
+trip number[19],cairo,monte carlo,car,0,false,3,tharwat,300,5/11/2020,20:35
